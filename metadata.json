@@ -1,0 +1,6 @@
+{
+  "name": "VisionBiz Hub",
+  "description": "Plataforma SSO Hub Admin, Gestão de Assinaturas, Faturamento em Lote e Checkout Seguro da VisionBiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
