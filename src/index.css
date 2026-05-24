@@ -6,7 +6,7 @@
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
 }
 
-/* Custom auxiliary scrollbar styling * /
+/* Custom auxiliary scrollbar styling */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
